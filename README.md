@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Mishra</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=+passionate+DevOps+Engineer;Learning+%26%26+Growing)](https://git.io/typing-svg)
+<h3 align="center">A passionate DevOps Engineer from India(Mumbai)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=falconcoder01&label=Profile%20views&color=0e75b6&style=flat" alt="falconcoder01" /> </p>
 
