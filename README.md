@@ -1,44 +1,91 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Mishra</h1>
 <h3 align="center">A passionate DevOps Engineer from India(Mumbai)</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=falconcoder01&label=Profile%20views&color=0e75b6&style=flat" alt="falconcoder01" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=1000&lines=%F0%9F%9A%80%20Cloud%20%7C%20Containerization%20%7C%20Automation%20%7C%20CI%2FCD%20%7C%20Infrastructure%20as%20Code;)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=falconcoder01" alt="falconcoder01" /></a> </p>
+</div>
 
-- 🌱 I’m currently learning **docker,kubernetes**
+---
 
-- 👯 I’m looking to collaborate on **cloud native projects**
+## 👨‍💻 About Me  
+💡 I’m an aspiring DevOps Engineer passionate about automating workflows, building cloud-native infrastructure, and deploying scalable applications.  
+🌱 Currently learning **Kubernetes, Docker, CI/CD pipelines, and Infrastructure as Code (Terraform & Ansible)**.  
+🎯 Goal: To contribute to real-world DevOps projects while continuously growing my skills in cloud computing, containerization, and automation.  
+⚡ Motto: **Learn, automate, and deliver value!** 
 
-- 🤝 I’m looking for help with **DevOps**
+---
 
-- 💬 Ask me about **DevOps**
+## 🛠️ Tech Stack  
 
-- 📫 How to reach me **utkarshmishra5485@gmail.com**
+### ☁️ Cloud & Platforms  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/utkarshm1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/utkarshm1" height="30" width="40" /></a>
+### 📦 Containerization & Orchestration  
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)  
+![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=flat&logo=helm&logoColor=white)  
+![OpenShift](https://img.shields.io/badge/OpenShift-%23EE0000.svg?style=flat&logo=redhatopenshift&logoColor=white)  
+
+### 🔄 CI/CD & Automation  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=flat&logo=githubactions&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)  
+![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=flat&logo=argo&logoColor=white)  
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23FCA121.svg?style=flat&logo=gitlab&logoColor=white)  
+
+### 🏗️ Infrastructure as Code  
+![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=flat&logo=terraform&logoColor=white)  
+![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=flat&logo=ansible&logoColor=white)  
+
+### 📊 Monitoring & Logging  
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=flat&logo=prometheus&logoColor=white)  
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)  
+
+### 💻 Scripting & Programming  
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnubash&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=falconcoder01&show_icons=true&theme=tokyonight" alt="stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falconcoder01&layout=compact&theme=tokyonight" alt="top-langs" height="150"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=falconcoder01&show_icons=true&locale=en&layout=compact" alt="falconcoder01" /></p>
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=falconcoder01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=falconcoder01&show_icons=true&locale=en" alt="falconcoder01" /></p>
+---
 
+## 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=falconcoder01&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+</div>
 
-<!--
-**Falconcoder01/Falconcoder01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌐 Connect & Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/utkarshm1" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+
+  [![Email](https://img.shields.io/badge/Email-utkarshmishra5485@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utkarshmishra5485@gmail.com)
+  
+</p>
+
+---
+
+<div align="center">
+  
+### 💡 "Bridging development and operations to automate, optimize, and accelerate the software delivery lifecycle."
+
+</div>
