@@ -22,28 +22,19 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)  
 
 ### 📦 Containerization & Orchestration  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)  
-![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=flat&logo=helm&logoColor=white)  
-![OpenShift](https://img.shields.io/badge/OpenShift-%23EE0000.svg?style=flat&logo=redhatopenshift&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)  ![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=flat&logo=helm&logoColor=white)  ![OpenShift](https://img.shields.io/badge/OpenShift-%23EE0000.svg?style=flat&logo=redhatopenshift&logoColor=white)  
 
 ### 🔄 CI/CD & Automation  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=flat&logo=githubactions&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)  
-![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=flat&logo=argo&logoColor=white)  
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23FCA121.svg?style=flat&logo=gitlab&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=flat&logo=githubactions&logoColor=white)  ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)  ![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=flat&logo=argo&logoColor=white)  ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23FCA121.svg?style=flat&logo=gitlab&logoColor=white)  
 
 ### 🏗️ Infrastructure as Code  
-![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=flat&logo=terraform&logoColor=white)  
-![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=flat&logo=ansible&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=flat&logo=terraform&logoColor=white)  ![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=flat&logo=ansible&logoColor=white)  
 
 ### 📊 Monitoring & Logging  
-![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=flat&logo=prometheus&logoColor=white)  
-![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)  
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=flat&logo=prometheus&logoColor=white)  ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)  
 
 ### 💻 Scripting & Programming  
-![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnubash&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnubash&logoColor=white)  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)  
 
 ---
 
